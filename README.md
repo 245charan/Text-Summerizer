@@ -1,7 +1,7 @@
 # Text-Summerizer
 
 
-##Implementation:
+## Implementation:
 
 python summarize.py -path example_file.txt -hidden 12
 
